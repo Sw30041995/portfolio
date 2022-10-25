@@ -1,0 +1,21 @@
+.project {
+    background-color: #cad7b9;
+    width: 250px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projectImage {
+    background-color: #f3d5ac;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projectButton {
+    background-color: #ffbcff;
+}
